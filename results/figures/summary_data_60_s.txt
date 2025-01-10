@@ -1,0 +1,20 @@
+=== Overall Performance ===
+R-squared: 0.0284
+RMSE: 5.6042
+Hit Rate: 0.5083
+
+Model uses 10 of 10 features (0.0% sparsity)
+
+=== Top Positive Impacts ===
+TSLA_lag5: 5.0924
+XOM_lag5: 2.2628
+AMGN_lag1: 1.7047
+AAPL_lag1: 0.7967
+XOM_lag1: 0.5318
+
+=== Top Negative Impacts ===
+JPM_lag5: -4.8935
+TSLA_lag1: -3.3657
+AAPL_lag5: -1.2036
+JPM_lag1: -0.5859
+AMGN_lag5: -0.1647

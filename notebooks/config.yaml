@@ -1,0 +1,7 @@
+# Assuming the files in the directory are: file1.csv, file2.csv, file3.csv
+
+AAPL: AAPL_20241202-20250104.parquet
+AMGN: AMGN_20241202-20250104.parquet
+JPM: JPM_20241202-20250104.parquet
+TSLA: TSLA_20241202-20250104.parquet
+XOM: XOM_20241202-20250104.parquet
