@@ -32,7 +32,6 @@ To run an experiment, follow these steps:
 1. **Download Data Files**:
     - Manually download the required data files from `https://drive.google.com/drive/folders/1yaZZ-kkn1l64CYVWY2qCMFNdAkA7MFkp?usp=drive_link`.
     - Save the downloaded files to the `/data` folder in your project directory.
-    - Or alternatively run the script at the beginning of the Pipeline notebook
 
 2. **Run the Jupyter Notebook**:
     - Open the `pipeline` Jupyter notebook located in the project directory.
