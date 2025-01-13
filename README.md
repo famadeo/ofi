@@ -61,4 +61,4 @@ The results section will present:
 We summarize the findings and discuss their implications for trading strategies and market understanding.
 
 ## References
-A list of academic papers, articles, and other resources referenced in this project.
+Cross-impact of order flow imbalance in equity markets [Rama Cont, Mihai Cucuringu & Chao Zhang](https://doi.org/10.1080/14697688.2023.2236159)
